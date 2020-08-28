@@ -1,5 +1,5 @@
 #!/bin/bash
-cd /home/jovyan
+cd /home/rstudio
 export GIT_COMMITTER_NAME=anonymous
 export GIT_COMMITTER_EMAIL=anon@localhost
 
