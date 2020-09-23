@@ -6,7 +6,7 @@ export GIT_COMMITTER_EMAIL=anon@localhost
 
 git clone https://github.com/balazsan/RStudio
 
-chown rstudio:rstudio RStudio
+chown -R rstudio:rstudio RStudio
 ls -lah
 
 
